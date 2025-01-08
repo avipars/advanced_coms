@@ -1,0 +1,7 @@
+text = """QVRL YGQV P AMDG BWLVV YIH H TIKVRLWJ. VPTYI NCA PSWF C LDUOVA ICK E GQTXJI FHNXJII, DCI MVFO I IVXRNTN KMWHMGLRK OWKPI...
+XQWS DSIM. GDB HZF I GLEC HQCL AFTS RYETMQCN XYKA GPHUNM. NVY JJWLLH JMQASW ZP XNALFP, VTAAFTSH, VTVTIIPRX UGHAIDU ICK ME VPT ZGZGVRL SW UMRYITA.
+GDBV IKLSSI ZU LDUI YGZT: KEKC LDA GPDMG KSK QZV KSK KT HSEJJ VTAAFTSH ZPRUP RAJ JNIHO WLEKTZW UQB YWK
+RNT HTECN TTAXVTA"""
+
+We figured out it was vigenere but didn't have the key. We were told the key was an english word... In the end we found a useful script and then saw the key was "CIPHER" which gave us the final message! 
+https://gist.github.com/avipars/970c7934443ca1b020354c0c2b47b2f5
