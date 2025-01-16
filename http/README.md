@@ -1,0 +1,1 @@
+We were given the webroot folder and instructed to make our own http server on our own (with only socket, sys, os.path dependencies)

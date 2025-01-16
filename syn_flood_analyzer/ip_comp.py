@@ -1,3 +1,5 @@
+# script to compare lists of ip addreses and find mismatches
+
 import ipaddress
 import sys
 

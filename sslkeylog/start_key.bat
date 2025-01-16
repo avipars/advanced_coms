@@ -1,4 +1,5 @@
 @echo off
+rem sslkeylog 
 rem for decrypting your own https traffic via wireshark
 set SSLKEYLOGFILE=%USERPROFILE%\Desktop\keylogfile.txt
 start firefox rem or can start firefox like this start "" "C:\Program Files\Mozilla Firefox\firefox.exe"

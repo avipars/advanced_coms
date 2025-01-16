@@ -1,1 +1,3 @@
-Files for solving the course CTF
+Files for solving the course CTF 
+
+We were given a pcap file and an introduction. After analysis via wireshark, we found an image called poison_apple.png. Embeded in the image was a executable file...

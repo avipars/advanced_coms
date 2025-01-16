@@ -1,6 +1,5 @@
 from scapy.all import *
 
-
 def ping(host):
     try:
         packet = IP(dst=host) / ICMP() / b"You are the best"
